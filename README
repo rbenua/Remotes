@@ -1,0 +1,3 @@
+This is a small plugin for Bukkit (www.bukkit.org, an open-source Minecraft server).
+It adds a remote item for redstone torches, accessible with the command /remote [number].
+It uses a chain helmet to stand in for the remote. Right clicking while holding a remote will link all redstone torches placed will be linked with that remote. Left clicking while holding a remote toggles all torches associated with it.

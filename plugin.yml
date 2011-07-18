@@ -1,0 +1,7 @@
+name: Remote
+main: remote.Remote
+version: 0.1
+commands:
+  remote:
+    description: Gives the calling player a redstone remote.
+    usage: /remote [n] will give you n redstone remotes. Default is 1.
